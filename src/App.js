@@ -26,4 +26,4 @@ export default App;
 {/*changes of the file*/}
 {/*second changes of the file*/}
 {/*third changes of the file*/}
-{/*fourth changes of the file*/}
+{/*fou changes of the file*/}
