@@ -9,6 +9,10 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
+        {/*changes of the file*/}
+        {/*second changes of the file*/}
+        {/*third changes of the file*/}
+        {/*fou changes of the file*/}
         <a
           className="App-link"
           href="https://reactjs.org"
@@ -23,7 +27,3 @@ function App() {
 }
 
 export default App;
-{/*changes of the file*/}
-{/*second changes of the file*/}
-{/*third changes of the file*/}
-{/*fou changes of the file*/}
