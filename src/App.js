@@ -7,9 +7,11 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
+
           {/*changes of the file*/}
 {/*second changes of the file*/}
 {/*third changes of the file*/}
+
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <a
@@ -26,3 +28,8 @@ function App() {
 }
 
 export default App;
+
+{/*changes of the file*/}
+{/*second changes of the file*/}
+{/*third changes of the file*/}
+
