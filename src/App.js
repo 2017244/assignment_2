@@ -29,7 +29,4 @@ function App() {
 
 export default App;
 
-{/*changes of the file*/}
-{/*second changes of the file*/}
-{/*third changes of the file*/}
 
