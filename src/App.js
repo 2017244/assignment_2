@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Deployed from main.
         </p>
         <a
           className="App-link"
@@ -23,6 +23,3 @@ function App() {
 }
 
 export default App;
-{/*changes of the file*/}
-{/*second changes of the file*/}
-{/*third changes of the file*/}
